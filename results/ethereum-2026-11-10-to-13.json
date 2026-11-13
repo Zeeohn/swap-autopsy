@@ -1,0 +1,1298 @@
+[
+ {
+  "hash": "0x1ca2e193b0163d849dd1da08e6f093d7b252c34338c5deeff574f7033a75d159",
+  "block": 26405612,
+  "entry": "AllowanceHolder",
+  "error": "OutOfGas",
+  "detail": "gas limit 558080, used 544003",
+  "origin": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "depth": 5
+ },
+ {
+  "hash": "0xd57b1d703e33e0ff0689c91b9548d0cd1c00582b6183ea548a34d35b87ed8d94",
+  "block": 26405590,
+  "entry": "AllowanceHolder",
+  "error": "OutOfGas",
+  "detail": "gas limit 1479899, used 1448060",
+  "origin": "0x7360c8207add8b8dd0332831a19c20bba6e3cabd",
+  "depth": 5
+ },
+ {
+  "hash": "0xc1e7a6a04d2b5937dd8adb8f79ade8201fc78c9070226ea8952ef1473aebf983",
+  "block": 26405410,
+  "entry": "AllowanceHolder",
+  "error": "QuoteExpired",
+  "detail": "no arguments",
+  "origin": "0x4777a6b3a9a889abfd4c7666bdd2a7ab633293be",
+  "depth": 5
+ },
+ {
+  "hash": "0xcf01ad78c51281b77706aefa92b3f55e4685401b88c50a425e6c9c23164e3087",
+  "block": 26405400,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0x9c3d724b)",
+  "detail": "selector not in the known list",
+  "origin": "0x4f83e3e7c2cbb84098d21052084a7a019a2b174c",
+  "depth": 5
+ },
+ {
+  "hash": "0xa405222a60b4acb1dbbb96b1472133ec733df6d167123c826f275def521f9bcf",
+  "block": 26405363,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 30017086172, its minimum was 30017958300 (0.0029% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0x9d2917d059a7e856e9f7a4073e5371dd02b940b81c42e0718bbc1fb209ff1ef3",
+  "block": 26405323,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1.281831404798443636 ETH, minimum was 1.282436055473023852 ETH (0.04% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x624d43af7a54dfdc40b1b3f8acf69c915d61ad329e996bc862551e8bb21f2b4e",
+  "block": 26405209,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"IG\"",
+  "origin": "0xc0ed888afe87ed1acf01d9f19bb850159e3ce434",
+  "depth": 5
+ },
+ {
+  "hash": "0x6e67d22eaa8f26fc68f668d500719a95ae64f3b54e8c7084c48dc2a7ce496610",
+  "block": 26405153,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 11228.796276975866778697 ELF, minimum was 12013.156586381205121329 ELF (6.52% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x17fed0d02d7cf258e44f91e9b0435020cbf077c7382a24835b40d38841f7b77c",
+  "block": 26405152,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 12040.252953682825432468 ELF, minimum was 13226.433007985596214366 ELF (8.96% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x7055e80b9b55e62f65b31841944837792f7c9007eb2f81f8b7946575dce96544",
+  "block": 26405041,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 2
+ },
+ {
+  "hash": "0xd22ae9979d1b54e2711ba9dc247f3d5c05c979845508280af4408fcd37aee3ef",
+  "block": 26404928,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 81397946125, its minimum was 81400795557 (0.0035% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0xdc0c6e5016ac3d2055dc5f39cce1fdcb678d9853583b0a94cc368b5bd14c5f89",
+  "block": 26404698,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 2.008761 USDT, minimum was 2.020869 USDT (0.59% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xc240b0fa3ec1537794849c6cd7ae6339b33e288acafcfb56fc4ab08e173adfc0",
+  "block": 26404584,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 464339120, its minimum was 464656768 (0.0683% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0xdbe6dd6db03403850d53654519a3a1d625419a07856b888c5cd1a64aac6d0258",
+  "block": 26404554,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 2
+ },
+ {
+  "hash": "0x93cb5de9a1b025ae0212b314fe3359d2c8623797a4659bffbcbadeeb9f891ea1",
+  "block": 26404553,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 2
+ },
+ {
+  "hash": "0x095568f9cb42407708e2b41666ef88cf853aa697a9ceafba883b2d41f175373c",
+  "block": 26404548,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 26623589.157911562 ONE, minimum was 26641886.754431886 ONE (0.06% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xbe1a192177c587ad30c1135e5fbc10ae237258760d478594dfb5d38ca9d5f1a8",
+  "block": 26404548,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 13476.959563511850277835 SHFL, minimum was 13579.889899807724452619 SHFL (0.75% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x0c401e04a4facf4acaf61d5f3459f5b5cde7a16378a87af0d1eb7e0f0233b211",
+  "block": 26404534,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 2
+ },
+ {
+  "hash": "0x99cac8585a9bc1cc47dac62b0cfebe8d037bc66e2a11b1301cc8a4c4363922c1",
+  "block": 26404528,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 5007.716063 USDT, minimum was 5048.286868 USDT (0.8% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x5a6249e877ce368ca53042e11544d4f4c28ed34edd684458a2c8c8f053ecd7a5",
+  "block": 26404526,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 13248619155395128872645, its minimum was 13558502122601553885096 (2.2855% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0x0e73ab0689adc493a20ff4bc3390f37d0f1d47c6bc14d13bb2bd4a4b601ad965",
+  "block": 26404513,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 3
+ },
+ {
+  "hash": "0x4366e46d4a03f5b6b3abc952280635eed7c744b7f3944c68b2e15bd43223964e",
+  "block": 26404459,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 3266165447, its minimum was 3275120263 (0.2734% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0x5843470f16f0d60b81772a4ec3fef5db2cccdbb4d5f75bc76e364b84c0ba8091",
+  "block": 26404416,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1936.891601259746547011 W0G, minimum was 1939.378840403796037847 W0G (0.12% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xfd74d781db947c8c09caf46c39fe45af5526930842cc2a11897a3539ac0b492d",
+  "block": 26404404,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.062057016792626345 ETH, minimum was 0.062142735365549047 ETH (0.13% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x369f9e8a7234fc1e266e2d4bd8d4fce3eefe4f1d462c628b27ca471534d2aa16",
+  "block": 26404392,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794552646",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xb8acce461d4a4eed5f8248bbacef3c6f378d9dd5ea5e0a29ce18f1052f0be989",
+  "block": 26404380,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 3103749216900966961, its minimum was 3105172373261720196 (0.0458% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0xb56f8997c33addbb00e631aba3ebfdb3b5cdf7d63376fd7c203fdcfad3f19c6a",
+  "block": 26404362,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0xcea9e31d)",
+  "detail": "selector not in the known list",
+  "origin": "0x6a000f20005980200259b80c5102003040001068",
+  "depth": 2
+ },
+ {
+  "hash": "0x77c9d3640a38239b89d21e3aa56f03ea9735f26e046ad69215d5af6ff42bc38c",
+  "block": 26404352,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 3271.044846422837114172 W0G, minimum was 3271.881336473573570153 W0G (0.02% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x3fb6ca59f2f757e328ef5496c88ca2e64900ea9db8fb37a4e7185a4c9731eec9",
+  "block": 26404292,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0x666a2814)",
+  "detail": "selector not in the known list",
+  "origin": "0xda7afeed021eafc1c1af9c362de477dad0396b81",
+  "depth": 5
+ },
+ {
+  "hash": "0xa73bf0fcf7a52687a9c81ff6f473a5bc87cc689f7d91712d442089cdca0d551a",
+  "block": 26404282,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 2
+ },
+ {
+  "hash": "0xcfa5b6f55da6214860ab47629f151153d674010f3d58f1bb26716b5534c31304",
+  "block": 26404249,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 3
+ },
+ {
+  "hash": "0x2233b12f7641329c2fef3798e23ba559bb16c6731fbf9512c15ccfa7e5ff4765",
+  "block": 26404216,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794549887",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 3
+ },
+ {
+  "hash": "0x4dc28a2f43f3249b57d9af3e16ca90d4dc52531d27d38b16208660944b64a131",
+  "block": 26404209,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 101.998882072119368831 LINK, minimum was 102.012896796260833037 LINK (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xc2e9af86ee40ad95a11aa0838f5d1a02c9d472d746484095a81cba445a46df36",
+  "block": 26404183,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0xef3dcb2f)",
+  "detail": "selector not in the known list",
+  "origin": "0x4fe93ebc4ce6ae4f81601cc7ce7139023919e003",
+  "depth": 3
+ },
+ {
+  "hash": "0x4a4fe0bd3c66c9882538b77177296a179d78cacc8f0bebe72a6b8b2fd622106a",
+  "block": 26404160,
+  "entry": "AllowanceHolder",
+  "error": "OutOfGas",
+  "detail": "gas limit 188737, used 186456",
+  "origin": "0x43506849d7c04f9138d1a2050bbf3a0c054402dd",
+  "depth": 3
+ },
+ {
+  "hash": "0x18b26dafe1eb0a4984ea5941ba871890309aca243409ed4db4ac2e2d780edd50",
+  "block": 26404152,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"SP\"",
+  "origin": "0x10e1a2b624e14ac59426199e520320313a98b0be",
+  "depth": 4
+ },
+ {
+  "hash": "0x5b0bbd1fc7f3430aabc1285f8e6f41af977d03f9093873e0d9237134a23b231d",
+  "block": 26404118,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794549698",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0xccebac75f4f5662d29b3906b0bd24ea01deef4a03187bc3d240e04f03a099535",
+  "block": 26404111,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.090961207987885385 ETH, minimum was 0.102263735344364864 ETH (11.05% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xc4463bc06707e34089d63f59b57c8ebebdd846d39a2497bb40f0b50eab8ed020",
+  "block": 26404100,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 4626270651597097522, its minimum was 4628502751633809634 (0.0482% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0x4fed32fd02c5b1cd0e3df2364b7e7551967fd45ceae440a098de7147a8b01379",
+  "block": 26404093,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1967.915115 USDT, minimum was 2099.576902 USDT (6.27% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xfb1757b0e61e9eb56d94695bfaf3ab56b5d16f6aefdd38763b291dd25e09f9e0",
+  "block": 26403991,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794548189",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 3
+ },
+ {
+  "hash": "0x447b5a2ccc6df9280e873a03b1be93a3cb5a4fee20f919de997d5a464b60e696",
+  "block": 26403930,
+  "entry": "AllowanceHolder",
+  "error": "OutOfGas",
+  "detail": "gas limit 202194, used 199049",
+  "origin": "0x43506849d7c04f9138d1a2050bbf3a0c054402dd",
+  "depth": 3
+ },
+ {
+  "hash": "0x3aaeb867830c128d4660c4b60535a99e1fe393389853676224bec75dd014ac09",
+  "block": 26403926,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794547355",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 3
+ },
+ {
+  "hash": "0x00c86e6a29d288f0d06a877eb00676d0ff81f3ebf4362f92303c94a04810e69e",
+  "block": 26403925,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"ERC20: transfer amount exceeds balance\"",
+  "origin": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+  "depth": 3
+ },
+ {
+  "hash": "0x80a4519c91b8ac79deffe77ecdd5189e262967633e788b96cd12bf33c0b8b5f9",
+  "block": 26403885,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 232.217468859801317537 EKUBO, minimum was 233.558199680883482235 EKUBO (0.57% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x0f7e5a67cbac43af9b039ae7d58a9ef8f8238314c0ca1c7975b37e4b77ca22e3",
+  "block": 26403874,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 466.541682144730922211 EKUBO, minimum was 473.705145979842651539 EKUBO (1.51% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x558a3a6877f3d579a4647a47734e39657d301d414450d03e9926723a8a2b166c",
+  "block": 26403820,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"Insufficient output\"",
+  "origin": "0xa929c559e5e6537359680f39cb4e3708e1a14dd1",
+  "depth": 2
+ },
+ {
+  "hash": "0x7bafd0d58bd80fb54b102ac2d603940fbab128077dbf2d7abb20c1db836fb033",
+  "block": 26403817,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"Insufficient output\"",
+  "origin": "0xa929c559e5e6537359680f39cb4e3708e1a14dd1",
+  "depth": 2
+ },
+ {
+  "hash": "0x550ac8204e299ce00620f8896500279b246368a832c68aed8e260e10cd1522d9",
+  "block": 26403735,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794539950",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x1eb7d53c3f0adcffd29a54627d511f72af61f9c86cecf894d68c6bfc785a99fa",
+  "block": 26403712,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 233.942028617474792059 GROVE, minimum was 256.71243570661095966 GROVE (8.87% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x1b5b14ce1bf9d3a51d82e29098c9b96c54bbb1aa224610afcbeeb6a9a463760d",
+  "block": 26403698,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 15434.466777889840998834 VSN, minimum was 15456.148593993963169219 VSN (0.14% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xdf5c6b7418c0b57ea41dc6b31a3d8efda284bede146ae498e4a2d55a782b5b6d",
+  "block": 26403691,
+  "entry": "AllowanceHolder",
+  "error": "ERC20InsufficientAllowance",
+  "detail": "0x0000000000001fF3684f28c67538d4D072C22734, 0, 3125000000000000000000",
+  "origin": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+  "depth": 3
+ },
+ {
+  "hash": "0xbcfed28ab38eaeb4e601e55b553b1fee8c37b826c476c48937df85c1b008a2d8",
+  "block": 26403691,
+  "entry": "AllowanceHolder",
+  "error": "ERC20InsufficientAllowance",
+  "detail": "0x0000000000001fF3684f28c67538d4D072C22734, 0, 2649000000000000000000",
+  "origin": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+  "depth": 3
+ },
+ {
+  "hash": "0x8c56c62586aeb9f4bfdfdd24c81fcd7f7953f2993a126c481383d98606befda0",
+  "block": 26403563,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 2
+ },
+ {
+  "hash": "0x994399c767df7561269a08c753dc1dd258d0d6ce17e331f33c742ce17eadd8ab",
+  "block": 26403533,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794542349",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xa52c36c42770054b692b00c98983b3c2667aee1e6d56723365843d4e2fa3c2fa",
+  "block": 26403505,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"Insufficient output\"",
+  "origin": "0xa929c559e5e6537359680f39cb4e3708e1a14dd1",
+  "depth": 2
+ },
+ {
+  "hash": "0x9b680ce146159a252a13499903ecd6cd01767c5ac035c91957cb0caf08aa4b84",
+  "block": 26403456,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.01448784 cbBTC, minimum was 0.01448866 cbBTC (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x76d354434934f190a00ff46dbc497601a66d95748ada3533d4d4a250225ac1b4",
+  "block": 26403452,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794540854",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x37949fc353d274755427f2bc5715f09da12b4fe7f1b018d73cca4a92df1c8720",
+  "block": 26403429,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0x9c3d724b)",
+  "detail": "selector not in the known list",
+  "origin": "0x4f83e3e7c2cbb84098d21052084a7a019a2b174c",
+  "depth": 5
+ },
+ {
+  "hash": "0x6a5a3ee3975a3ffa35e5aac645aec95d84fca38c59f1e4506b6b8101a8168928",
+  "block": 26403423,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0x666a2814)",
+  "detail": "selector not in the known list",
+  "origin": "0xda7afeed021eafc1c1af9c362de477dad0396b81",
+  "depth": 5
+ },
+ {
+  "hash": "0xb7f2ce3f950af8fac18a4bbcfb1b79d586b843a1de6661a2cf097d0484103ca8",
+  "block": 26403418,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f",
+  "depth": 3
+ },
+ {
+  "hash": "0xea460741a655d2ab6d5dcabd83473153376fe0427671fb591d33c40a3afa7be7",
+  "block": 26403370,
+  "entry": "AllowanceHolder",
+  "error": "OutOfGas",
+  "detail": "gas limit 117042, used 116168",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x8d5ca9f1b4e45655ae0afef05001dfe28c91a830294b899edaa1157bce600c48",
+  "block": 26403370,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794540711",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x75d75102128dad1181856faff471b745c776e8f9ccd4a089f4f4c095143734b7",
+  "block": 26403367,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"ERC20: transfer amount exceeds allowance\"",
+  "origin": "0x43506849d7c04f9138d1a2050bbf3a0c054402dd",
+  "depth": 6
+ },
+ {
+  "hash": "0xb6da754fdcd90e5ceb85d068857d3f0d8d2384b57abe94632c61f4c38bad23e6",
+  "block": 26403348,
+  "entry": "AllowanceHolder",
+  "error": "ReturnAmountIsNotEnough",
+  "detail": "source returned 19984690502, its minimum was 20010395451 (0.1284% short, raw units)",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 2
+ },
+ {
+  "hash": "0x05c4f196d6231e07d9c6d51682d3ccf34e9a5e03c0a588a886ef78ed4823f605",
+  "block": 26403341,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794540304",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0x9f88ad7fc94c22cab4be35cf383187b0d8622eae673377cf359ae283713e1f90",
+  "block": 26403341,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.158104650047209239 WETH, minimum was 0.158290009826777209 WETH (0.11% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xabaf938c8eaa2dd1ddafc754878a53f28e2b06e13c339d7da19818c76850eca8",
+  "block": 26403339,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.158491044444244672 WETH, minimum was 0.158591427594061561 WETH (0.06% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0x238b648cb15db728597447c5710e14a3ab98eac3cf638b5c7867c36d33c7f02f",
+  "block": 26403333,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.21622491 cirBTC, minimum was 0.21625793 cirBTC (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xd1586e0f9b6b3738f1479a38f1cc015869a593e1affb83a3bc98e5c2293896a5",
+  "block": 26403331,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.21650605 cirBTC, minimum was 0.2165569 cirBTC (0.02% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xd29853a1038aae8b029f40a9a7dfafb56bf4421decbb4c5253ecc7464f2dda02",
+  "block": 26403330,
+  "entry": "AllowanceHolder",
+  "error": "SignatureExpired",
+  "detail": "1794540260",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 3
+ },
+ {
+  "hash": "0x68c2809dc97a95b40c8c437b9249b83a03a0332b0b4c8fb9903db2427926c326",
+  "block": 26403327,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 4
+ },
+ {
+  "hash": "0xeb7d0f50ab3bb21dddbce066533d64728cb2b6b603a17430dac026682bc19fe6",
+  "block": 26403322,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.2165036 cirBTC, minimum was 0.21655933 cirBTC (0.02% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xb26f79e42ee94a9fb4e962353eac4e12c0eef4072f9b93d62f9287ca1e4e3152",
+  "block": 26403306,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.0717759 cirBTC, minimum was 0.07181861 cirBTC (0.05% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xac8e244f19f921fcf105b27c15a6235a85577fd342098392694b38c18c6b8ead",
+  "block": 26403304,
+  "entry": "AllowanceHolder",
+  "error": "OrderExpired",
+  "detail": "no arguments",
+  "origin": "0x111111125421ca6dc452d289314280a0f8842a65",
+  "depth": 4
+ },
+ {
+  "hash": "0x7f32aa279b959d7df795c3d0eb910ee7c57fb5177906452e8118819bbd92cf66",
+  "block": 26403284,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 26.768931 USDC, minimum was 27.334129 USDC (2.06% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xc74b98a65a3483c8ead6633e61f2804683990c6606a4d4366b455e8fdced0821",
+  "block": 26403248,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"SP\"",
+  "origin": "0x10e1a2b624e14ac59426199e520320313a98b0be",
+  "depth": 3
+ },
+ {
+  "hash": "0x98e6ec986567bbbd6fc4c037d78cb520126db54ebbefd96ec6d03604ad9ee3fd",
+  "block": 26403237,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 4
+ },
+ {
+  "hash": "0xa687d6c053dcfd6ce7244460a026c2495f6c92c8faff81027c110abedd57a8ec",
+  "block": 26403175,
+  "entry": "AllowanceHolder",
+  "error": "Unknown(0xcf628638)",
+  "detail": "selector not in the known list",
+  "origin": "0xbeb0009aca35087ce7ccf11637e24dd1aad3bf2a",
+  "depth": 2
+ },
+ {
+  "hash": "0xe83b1062a2760493ce98ff17ee6dbefe3c44c20baf2b4e4f71554ce95e6a5281",
+  "block": 26403154,
+  "entry": "AllowanceHolder",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.14221726 cirBTC, minimum was 0.14222113 cirBTC (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 1
+ },
+ {
+  "hash": "0xf91fb680549f978aca3c858fe3027c931825999f561f1ab199d8271a6684a3f7",
+  "block": 26403081,
+  "entry": "AllowanceHolder",
+  "error": "Error",
+  "detail": "reason: \"Insufficient output\"",
+  "origin": "0xa929c559e5e6537359680f39cb4e3708e1a14dd1",
+  "depth": 2
+ },
+ {
+  "hash": "0x2919a0c9b032dcf17a0f00d9ba05289b4f5fb9ee8097ddf25777c5b071cffc34",
+  "block": 26405558,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x62c868b97b4fb6c9e133ad7eb93d56d828e9701ebe88e147b531efbb7b7f028b",
+  "block": 26405023,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.028599541506960756 ETH, minimum was 0.028637486065434792 ETH (0.13% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xf0a4187e4c38e72fcb9859808cb8107b9a74105f7f5c19579ad10f0447ce7aaf",
+  "block": 26404573,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"SP\"",
+  "origin": "0x10e1a2b624e14ac59426199e520320313a98b0be",
+  "depth": 3
+ },
+ {
+  "hash": "0x2be51ab6e15dd832e2570d827a3c0b737ff6e8c97f5323dd4b0481842a8d562e",
+  "block": 26404568,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1243.995377 USDC, minimum was 1244.115373 USDC (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x79f24dfd5e69f98d0599fbb07a2505bcc5cfd2a3e66c22a298a2aa3cf786b28d",
+  "block": 26404462,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 2.557089642141387994 ETH, minimum was 2.557524915489274895 ETH (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x87e16bd6617a70bbb22c7a3dae5a77e8fa525f9ec25ae611363ae83b22537e8e",
+  "block": 26404300,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidNonce",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xb62d78747efd5418f3ab1cdc148135801f97cddfb275a64e785e5d23bb8941e3",
+  "block": 26403524,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794542308",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xef9ffc6635246f184c0c758128a914fdaad3e34a23941cdacde4425d321ce1d4",
+  "block": 26403320,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1353.137702345315389661 EURI, minimum was 1357.847630664673700308 EURI (0.34% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x555fd777f93f89c88f77495d7d3de43519a8b016cfd6e2f62d8177a14cd9f50d",
+  "block": 26403188,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.14081475 cbBTC, minimum was 0.14084287 cbBTC (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xd9587a4b28c28804929c76f65d120007d7053a05b3233b2d1fbdd053daf939df",
+  "block": 26401880,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x1bbb60a5b70e980db9c30d7f641642967edaf25a0c65f58c56e031c2b2da65e0",
+  "block": 26401879,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x8b6beeaa3a4a8e608571fcf557960709ecf1d27cdd25715a5dacd0fabd031096",
+  "block": 26401234,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x46f718d00fb113d86aef05b30ddc9e7613e1e3c758cd7e4ab248da27f63fc380",
+  "block": 26401225,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xc1c9da5273f5665066946a1f9cdf8cedb2dab540e7c736a4f7715b4fe8b6012e",
+  "block": 26401223,
+  "entry": "Settler (Permit2)",
+  "error": "InvalidContractSignature",
+  "detail": "no arguments",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xbaeca48ab4528a5ce5998f71e4c3d44dc8f25e381f0254e11ebd70e4308fad85",
+  "block": 26400968,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794511854",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0xcfd8b9b3e7804a2eacaffa7fc661fc51f74b98b1dc0a4bdc35bb9d2c3b519f2e",
+  "block": 26400507,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794506296",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0x04be4bd3ffbfd1fadec4ee7f61db2cb4e14894cb2999098bce6ce3283b399a8a",
+  "block": 26400374,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x01bf5144d231bd1d3750968befeecbbb547b3d564d1fb66c16bb38c645fb921e",
+  "block": 26400188,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794502399",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x8d81a1bdf6eacb19540c6865615f1a4e0bab7d90815433a14f1da1a485b5b8f0",
+  "block": 26399762,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.315922894991039842 wBETH, minimum was 0.316000825686895094 wBETH (0.02% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x1b26de61635d2a206ec8be7671815875cd6bf78c944f5feccc96726edf537b38",
+  "block": 26399542,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 5550.809347704528400656 RLUSD, minimum was 5559.828221727713096809 RLUSD (0.16% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x40cb1140703b567983db4265276f67f0abdb7dcfbf50d1d7e193f26803e75d81",
+  "block": 26399463,
+  "entry": "Settler (Permit2)",
+  "error": "OutOfGas",
+  "detail": "gas limit 433515, used 417411",
+  "origin": "0x000000000004444c5dc75cb358380d2e3de08a90",
+  "depth": 4
+ },
+ {
+  "hash": "0x9bfcec07631e3f6c7d10060cbb11f19da51c9a474dedca050353824b2aa3b307",
+  "block": 26399403,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 2107.663144 USDT, minimum was 2109.551898 USDT (0.08% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xa9a28a21311e66db5fc30834b0fdd8f6c79ed208b3561d7aac238ffc3747f934",
+  "block": 26399263,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xda57264f3948cf99f5794f4be1c6f8ed3b3dfb9160b4058d06ee295416029ad6",
+  "block": 26399173,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 4196.513523 USDC, minimum was 4197.072118 USDC (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xf593e553f4a4251609b5a1aaf1992a4cabe8992a05ebac8bee37585cc9cbef5b",
+  "block": 26399025,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794488455",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x047855cefd215c518cf4aa5e644033d55b5ac3d693ffe44818c1b0daccdf925d",
+  "block": 26398618,
+  "entry": "Settler (Permit2)",
+  "error": "OutOfGas",
+  "detail": "gas limit 809792, used 797258",
+  "origin": "0xf437f62053acb121665b8fdbfea8f214fb8e589d",
+  "depth": 6
+ },
+ {
+  "hash": "0xeb5d11ce1a120096d29d8d8f6e6b4ec455c89ff866759b5b9d02844e8902b233",
+  "block": 26397508,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 1
+ },
+ {
+  "hash": "0xe33ae496234f2cfb314da96a0b4f8bf0c9949ef36c5c5aff8ad3ccc6298412dc",
+  "block": 26397498,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 1
+ },
+ {
+  "hash": "0x971f9c36ebe839870512a3c23af45f2fe92a8fc1b274ab2cf9f234724cbe347a",
+  "block": 26396765,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 553.166827332956554165 BITS, minimum was 573.521390511283457085 BITS (3.54% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x91b388ba8287fa5bd06180e940628e7deb15bfab63ab54fd5022ab9ff37c875e",
+  "block": 26395821,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.307076863579137432 wBETH, minimum was 0.30720923541242975 wBETH (0.04% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xef7690b3ced80f73d5067ac60b52e72a32ea959b1e47adf4bd7c8d488881970e",
+  "block": 26394867,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"UniswapV2: INSUFFICIENT_OUTPUT_AMOUNT\"",
+  "origin": "0x2a77ccf28ca71f5339ee18e88f2b1bb57850bba8",
+  "depth": 1
+ },
+ {
+  "hash": "0x7ef04967ea71d71cf8ae231957f87a02557686e148addbbcda23bdf921128e86",
+  "block": 26394182,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794430183",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x93c3ac62bb6087db7aec3fb5b87c7f561aa2f3516949471fbeb34eeb4ad5d8e8",
+  "block": 26393133,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 10.875204293966913026 PEAS, minimum was 10.902579420669835014 PEAS (0.25% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xdf7d31eb2d5e8fde8e5fdedfbb80b2d6d29274bd8747cd0748bf0f5a6e328e0e",
+  "block": 26393112,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794417270",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xd3671a25831e82991c99487e35ff309118739e08ab7ce21e420671ed148372c1",
+  "block": 26393107,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 1169.365744964736720935 CRV, minimum was 1169.47841939659845813 CRV (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x8d3e941d161a05da450caf55819a0e9defb5aeb20dac9233785f68c00fc32dc4",
+  "block": 26392526,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 60.361486 USDC, minimum was 63.73967 USDC (5.29% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x5cccdec572a344e2a17e21df9fef6e89b5df48228ee08ce72b417a84e9db04e1",
+  "block": 26392523,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 60.361444 USDC, minimum was 63.73967 USDC (5.3% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xd8dd3c0a14957c299ef6151693f3d4e31b38e1abe0c7182f88b1d79b2604ce2c",
+  "block": 26391720,
+  "entry": "Settler (Permit2)",
+  "error": "OutOfGas",
+  "detail": "gas limit 3264731, used 3146102",
+  "origin": "0x00000000000014aa86c5d3c41765bb24e11bd701",
+  "depth": 3
+ },
+ {
+  "hash": "0x2a0126270863ebbb857ac28d643266a6bf3aa10c99aed98038a26ed1ed27ba5c",
+  "block": 26391457,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794397410",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0xc4e4b86814357d0a0e2e9b4e7fde091ed6a2f82a202bc74c4e5448c2ecec9aad",
+  "block": 26391241,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 3
+ },
+ {
+  "hash": "0x5f25ff38c0182256ad83092d65795a1f624d0d5708e96524c67866d4cd0671c3",
+  "block": 26390385,
+  "entry": "Settler (Permit2)",
+  "error": "Unknown(0x151d90fe)",
+  "detail": "selector not in the known list",
+  "origin": "0xf6125725d728d8a0d1fc3165c865f21f596081c8",
+  "depth": 2
+ },
+ {
+  "hash": "0x4b83641ac9cab029134f4f46c9ead0972d316009b054885a76d3a8173d7046bf",
+  "block": 26390383,
+  "entry": "Settler (Permit2)",
+  "error": "Unknown(0x151d90fe)",
+  "detail": "selector not in the known list",
+  "origin": "0xf6125725d728d8a0d1fc3165c865f21f596081c8",
+  "depth": 2
+ },
+ {
+  "hash": "0x1f5a2eba608bfc97de44637629378cac33719bc646690d66b27398a2e55460b3",
+  "block": 26390022,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794379929",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x0e06f869d81c8aac440960fa77765adca949d06503f43fee12129ab900f0d6b6",
+  "block": 26388145,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.307614231470738766 wBETH, minimum was 0.307651621085276642 wBETH (0.01% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x6a2d9ffabb6545610f5e695d2ffce3fd185bc783fb4cec0feae77f6a2cf40141",
+  "block": 26387559,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 11249.120760594805495298 T, minimum was 11253.369144107573457744 T (0.03% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xbd858a91b2fdad682edac12af044fc33bdd8256e54b96fb81b008d0ec38e9430",
+  "block": 26387557,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 11254.49459356693015076 T, minimum was 11255.576925001150363546 T (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xefee9ae83a59171376d26811b276ebc4cf1781350e3de1a76af97fd236bd69af",
+  "block": 26386701,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x6a85b8122e0468565db699afe83024125cf3d07f2e8d339b496da81644b3b9a2",
+  "block": 26386699,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"TRANSFER_FROM_FAILED\"",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 1
+ },
+ {
+  "hash": "0x095816340da06bc05ccef761601407a76cbd7a504aafc856faec0186e2e9d219",
+  "block": 26386281,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794334978",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0x6a105f1d93b65635d5e61e0fa6947cedf49ce3231952c1f20b0dbe77bf839b12",
+  "block": 26386073,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 667.153245710284460697 WXRP, minimum was 668.802215077978928502 WXRP (0.24% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xe5bc70a0e8fa68254bbcd252075e9235c7ac47913345691c9b64057618123d58",
+  "block": 26385994,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 303.297619 USDT, minimum was 303.318212 USDT (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x595533293f7905aa38e7674806ed47f3ba7a9229e6abebfccc02caf5d33f8d2d",
+  "block": 26385848,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 27.044081684236381581 UNI, minimum was 30.074169785756887183 UNI (10.07% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x36ea379b9affb85c40defa7f07afc8a7569f0e468e2e221ccbf8096c49db3e59",
+  "block": 26385789,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794329043",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0xed4e644f6975d3203ece7fa0001a19bbba60718507e741f0a910fda3c2bcff59",
+  "block": 26385691,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 11951.592832 USDC, minimum was 11952.71724 USDC (0% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x7c710d5906aff26d71e305ba6022a0354b434b528b496efd383bce13613d915a",
+  "block": 26385547,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 97.172784006288519754 LINK, minimum was 97.635763292693083554 LINK (0.47% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xf0b2871908086e23cbdd26a6a220c31418d65e90dd87ab1dccc74ebc68e3005b",
+  "block": 26385375,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794323981",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 3
+ },
+ {
+  "hash": "0x427e2d7d6acfacb917a89d616f1e7b4730f555df5428a6940877f83176a143c2",
+  "block": 26385331,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 518.915563 USDT, minimum was 519.655179 USDT (0.14% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0xdd1a1c720d09883349aac44563e87ba8fc51042c67fc8f98b57739e27b9fc5bc",
+  "block": 26385326,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 519.824746 USDT, minimum was 520.369496 USDT (0.1% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x4e3fd49152753c841e2500a18d112d77ccf1063002b921b6fe5c8acbc35f053e",
+  "block": 26384851,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.10830195 WBTC, minimum was 0.10836277 WBTC (0.05% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x603b63efb93babf10f60e90b0851e2cfc04ba60ff31d94a7d0ace617e83d82a7",
+  "block": 26384830,
+  "entry": "Settler (Permit2)",
+  "error": "SignatureExpired",
+  "detail": "1794317491",
+  "origin": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+  "depth": 2
+ },
+ {
+  "hash": "0x5a92c8d413328409ee28d3cc8fa312f56a98130d751727afc3f25ed585947771",
+  "block": 26384738,
+  "entry": "Settler (Permit2)",
+  "error": "TooMuchSlippage",
+  "detail": "would receive 0.03471029 WBTC, minimum was 0.03472425 WBTC (0.04% short)",
+  "origin": "0xaddc26a3854feabfd20d6bf658254088d83a425a",
+  "depth": 0
+ },
+ {
+  "hash": "0x69f66b48c71fd5a1ece69bf06f6a0bbbd0d92e09f621edd2d257b3e179642436",
+  "block": 26384283,
+  "entry": "Settler (Permit2)",
+  "error": "Error",
+  "detail": "reason: \"MISSING_ATTESTATION_FOR_CURRENT_BLOCK\"",
+  "origin": "0xb535aeb27335b91e1b5bccbd64888ba7574efbf8",
+  "depth": 1
+ },
+ {
+  "hash": "0x0809426b4ab652c073ceb9a8640d230a880c2d91717a1bc9e84bf1c21ad12b2c",
+  "block": 26382829,
+  "entry": "Settler (Permit2)",
+  "error": "OutOfGas",
+  "detail": "gas limit 267051, used 266741",
+  "origin": "0xf590df4915c2cf9fe6e95c7ce0c532377f7f6228",
+  "depth": 1
+ }
+]

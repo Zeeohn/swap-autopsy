@@ -1,0 +1,26 @@
+{
+  "name": "swap-autopsy",
+  "version": "0.1.0",
+  "description": "Explains why a 0x Settler swap failed, or how much slippage room a successful one had, from public on-chain data.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "bin": {
+    "swap-autopsy": "src/cli.ts"
+  },
+  "scripts": {
+    "autopsy": "node --disable-warning=ExperimentalWarning src/cli.ts",
+    "record": "node --disable-warning=ExperimentalWarning scripts/record.ts",
+    "test": "node --disable-warning=ExperimentalWarning --test \"test/**/*.test.ts\"",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "viem": "2.57.12"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "typescript": "5.8.3"
+  }
+}
